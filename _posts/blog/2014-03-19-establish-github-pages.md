@@ -6,11 +6,15 @@ description: 特别鸣谢@BeiYuu
 ---
 
 ## Thanks
+
 Thanks to @[BeiYuu][]
 
 ## Complain
+
 So much work after rw week, I hv to prepare for my presen and review for my co midterm.
-# wish
+
+### Wish
+
 Really wish I could squeeze time to better this blog and post my project here.
 
 [BeiYuu]:     http://beiyuu.com "BeiYuu"
