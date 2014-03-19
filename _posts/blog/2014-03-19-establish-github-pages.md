@@ -5,26 +5,31 @@ category: blog
 description: 特别鸣谢@BeiYuu
 ---
 
-## 世界这么乱，装纯给谁看
+## Thanks
+
+Thanks to @[BeiYuu][] for his blog and github project.
 
 
 
-## 那些虚的没用，说点实际的
+## Complain
+
+So harsh after reading week in HKU.
+
+### Presentation
 
 
 
-### GoDaddy & DNSPod
-
-
-
-### GitHub & Jekyll
+### Projects
 
 
  
 
-### Disqus
+### Paper
 
 
 
-## TL;DR
+## Wish
 
+Hope I can squeeze some time to go for this blog.
+
+[BeiYuu]:   http://beiyuu.com  "BeiYuu"
