@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 终于把博客搭到GitHub Pages上
+layout:     post
+title:      我为什
 category: blog
-description:感谢@BieYun感谢GitHub，我的博客终于在GitHub上线了
+description: 写博客这个这么古老的行为，还有必要拿出来说吗，我看有。
 ---
 
 ## 世界这么乱，装纯给谁看
