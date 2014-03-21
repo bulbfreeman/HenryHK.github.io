@@ -1,8 +1,8 @@
 ---
 layout:    post
-title:     Nothing is nothing at all
+title:     为啥
 category:  blog
-description:其实只是想到了乔布斯的"connecting dots"
+description: 其实只是想到了乔布斯的"connecting dots"
 ---
 
 ##其实我本来并不是想学Computer Sicience
