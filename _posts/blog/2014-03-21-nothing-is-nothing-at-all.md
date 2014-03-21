@@ -8,7 +8,5 @@ description: 其实只是想到了乔布斯的"connecting dots"
 ## 扯淡
 
 
-## Why no js
-
 
 ##sjdhajs
