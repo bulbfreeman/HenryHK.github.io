@@ -1,8 +1,8 @@
 ---
-layout:    post
-title:     Nothing is nothing at all
-category:  blog
-description:其实只是想到了乔布斯的"connecting dots"
+layout:     post
+title:      我为什么写博客？
+category: blog
+description: 写博客这个这么古老的行为，还有必要拿出来说吗，我看有。
 ---
 
 ##其实我本来并不是想学Computer Sicience
