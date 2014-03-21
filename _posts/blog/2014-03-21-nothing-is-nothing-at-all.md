@@ -1,7 +1,7 @@
 ---
-layout:		post
-title:		Nothing is nothing at all
-category:	blog
+layout:    post
+title:     Nothing is nothing at all
+category:  blog
 description:其实只是想到了乔布斯的"connecting dots"
 ---
 
