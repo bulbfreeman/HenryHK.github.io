@@ -5,9 +5,7 @@ category:  blog
 description: 其实只是想到了乔布斯的"connecting dots"
 ---
 
-## 世界这么乱，装纯给谁看
-
-## 其实我本来并不是想学Computer Sicience
+## 其实我本来并不是想学CS
 
 我最开始喜欢的只是Apple的工业设计美学，那个时候我还是一个Perfectionist。
 
