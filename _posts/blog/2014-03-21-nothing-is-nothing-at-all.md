@@ -5,7 +5,7 @@ category:  blog
 description: 其实只是想到了乔布斯的"connecting dots"
 ---
 
-##其实我本来并不是想学Computer Sicience
+## 其实我本来并不是想学Computer Sicience
 
 我最开始喜欢的只是Apple的工业设计美学，那个时候我还是一个Perfectionist。
 
@@ -21,6 +21,6 @@ description: 其实只是想到了乔布斯的"connecting dots"
 
 再漂亮的姑娘也怕没有修养不是吗。苹果装上Win还不如黑大粗的ThinkPad，还是联想出的。
 
-##所以这就是把点连成线
+## 所以这就是把点连成线
 
 我就是试下发博客...
